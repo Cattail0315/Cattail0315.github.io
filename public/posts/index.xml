@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的C语言学习笔记</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 我的C语言学习笔记</description>
+    <title>Posts on 我的C语言学习笔记</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 我的C语言学习笔记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 18 Aug 2026 17:37:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test2</title>
+      <title>我的第二篇文章</title>
       <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</link>
       <pubDate>Tue, 18 Aug 2026 17:37:23 +0800</pubDate>
       <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-      <description>&lt;p&gt;OK我觉得我学会上传了&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
-      <title>Test</title>
+      <title>我的第一篇文章</title>
       <link>http://localhost:1313/posts/test/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
