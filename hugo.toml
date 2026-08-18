@@ -1,0 +1,4 @@
+baseURL = 'https://Cattail0315.github.io'
+locale = 'zh-cn'
+title = '我的C语言学习笔记'
+theme = 'PaperMod'
